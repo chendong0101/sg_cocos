@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "luoli-idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "1e8ac226-2c9d-4398-9a03-20040f8fb15c"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "56de37a7-9e3f-4b95-b24b-1ee5bded0798"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "b819f186-2d06-4d43-a5a7-9da72be98f66"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "c0865e87-2e83-464e-a803-652d67612edf"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

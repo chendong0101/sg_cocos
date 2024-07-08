@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "steam4",
+    "texture": "0cc57094-cc78-4fe4-b301-171833065ddf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      121
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      121
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

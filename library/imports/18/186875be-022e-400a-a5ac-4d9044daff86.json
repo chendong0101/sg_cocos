@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ice_arrow",
+    "texture": "ad7b5b1b-776c-447a-9a79-e754ba107b0a",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      258,
+      56
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      259,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

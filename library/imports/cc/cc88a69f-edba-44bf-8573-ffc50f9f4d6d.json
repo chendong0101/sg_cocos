@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "snow-man-run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "45e14ea2-236a-44d0-90ee-f5daefb76cd2"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "665c2a8e-b32f-48cf-9faf-2bee8ae313e0"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "49dea937-7d1b-42cd-a21e-bd46d1cc68f4"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "7ade34ea-c9a9-4c94-89d6-b95e5032bdeb"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

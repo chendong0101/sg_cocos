@@ -1,0 +1,234 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "player",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      },
+      {
+        "__id__": 5
+      },
+      {
+        "__id__": 6
+      }
+    ],
+    "_prefab": {
+      "__id__": 7
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 166,
+      "height": 83
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.7,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 1,
+    "groupIndex": 1,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_spriteFrame": {
+      "__uuid__": "29baeac7-cdc0-488d-a9cd-f9b50384b4ba"
+    },
+    "_type": 0,
+    "_sizeMode": 1,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_atlas": null,
+    "_id": ""
+  },
+  {
+    "__type__": "f1313DxhPFKYKOjHSMAWDiY",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "retreatLength": 10,
+    "beAttackedAudio": null,
+    "starCount": 1,
+    "bloodBarPrefab": {
+      "__uuid__": "ca2b4cfd-2e81-403b-9d2d-9264bee8c7c1"
+    },
+    "blood": 1600,
+    "_id": ""
+  },
+  {
+    "__type__": "9c6f4gMEU5Nd6DTcjbs1rr6",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "bulletPrefab": {
+      "__uuid__": "9ae7498e-c93d-4390-9a82-c04acfcede01"
+    },
+    "skillBulletPrefab": {
+      "__uuid__": "4a0c2fa2-d9c0-41d6-add2-5d318405a0a7"
+    },
+    "jumpAudio": {
+      "__uuid__": "dc194f1a-c8a5-46ca-aaf9-f03b70974af5"
+    },
+    "scene": null,
+    "speed": 300,
+    "dir": 0,
+    "faceDir": 1,
+    "idleAnim": "guanyu-idle",
+    "runAnim": "guanyu-run",
+    "attackAnim": "guanyu-a-1",
+    "skillAnim": "guanyu-skill",
+    "attackAudio": {
+      "__uuid__": "a325b6ab-c6a1-492c-83e0-a72bcfa4005a"
+    },
+    "vDown": 0,
+    "g": 2000,
+    "moveAble": true,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Animation",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_defaultClip": null,
+    "_clips": [
+      {
+        "__uuid__": "e8bf596a-e7fa-426d-8827-900b1a9a4cc4"
+      },
+      {
+        "__uuid__": "14e3011a-850d-4769-aae4-dc2143d103d9"
+      },
+      {
+        "__uuid__": "8a191258-d7ac-4ca2-8fc4-37d2d78d79aa"
+      },
+      {
+        "__uuid__": "3e9d964e-6717-40df-9641-418ec36ce41d"
+      },
+      {
+        "__uuid__": "ec0f5e72-addf-4528-9f25-318ba073f874"
+      },
+      {
+        "__uuid__": "dce4a2e3-2869-4539-80f3-b0a01e602ec2"
+      }
+    ],
+    "playOnLoad": false,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.BoxCollider",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "tag": 1,
+    "_offset": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 1
+    },
+    "_size": {
+      "__type__": "cc.Size",
+      "width": 101,
+      "height": 87
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "3d374fc2-7227-42eb-bb9f-a53ef2b1d192"
+    },
+    "fileId": "72heDQXhpGKaLmbjJJyOaH",
+    "sync": false
+  }
+]

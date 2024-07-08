@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "steam3",
+    "texture": "638285d7-4552-4775-9951-ca9a10377367",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      121
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      121
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "yellow-head-idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.13333333333333333,
+  "sample": 30,
+  "speed": 0.4,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "dcd35f51-7990-4878-90cc-58bf44414773"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "455b29e1-4c81-40a7-8b24-3f11f21b9090"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "a24e86bb-f205-433c-a20c-70945e1661f0"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "65f9f535-c51d-46df-9897-10508353e23c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "blue-enemy-shoot",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.11666666666666667,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "95d89fe8-c5ad-473a-b662-10e35b5eb22b"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "34bb99b4-268c-46ce-b64b-4460db60d7b1"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "eb51a7ca-6a87-42a9-a551-52b46e0afb07"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "3d9427a7-025e-4d59-804a-5e4118d8ee4b"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "51cbba14-624c-4f3a-bf8b-2d55cf072ac7"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "9e56daaa-71c9-4e0c-8290-c62f58cd7ba0"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "95d89fe8-c5ad-473a-b662-10e35b5eb22b"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

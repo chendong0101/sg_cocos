@@ -1,0 +1,219 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "bat",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bat",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      },
+      {
+        "__id__": 5
+      },
+      {
+        "__id__": 6
+      }
+    ],
+    "_prefab": {
+      "__id__": 7
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 154,
+      "height": 153
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        324.571,
+        330.667,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.7,
+        0.7,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_spriteFrame": {
+      "__uuid__": "06ddc689-7b89-4157-a7d6-dc49646d7847"
+    },
+    "_type": 0,
+    "_sizeMode": 1,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_atlas": null,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.BoxCollider",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "tag": 0,
+    "_offset": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_size": {
+      "__type__": "cc.Size",
+      "width": 180,
+      "height": 140
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "f1313DxhPFKYKOjHSMAWDiY",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "retreatLength": 0,
+    "beAttackedAudio": {
+      "__uuid__": "0bd6547f-60c3-4ba2-b030-bee6baa7f8f1"
+    },
+    "starCount": 1,
+    "bloodBarPrefab": {
+      "__uuid__": "419f52cc-e47a-4758-8881-17249fe18908"
+    },
+    "blood": 100,
+    "_id": ""
+  },
+  {
+    "__type__": "3b6e1Fu2p1OtoWjk539mlwX",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "vision": 1600,
+    "speed": 150,
+    "attackLength": 100,
+    "dir": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "faceDir": 1,
+    "yRange": {
+      "__type__": "cc.Vec2",
+      "x": -110,
+      "y": 9999
+    },
+    "skill_cd": 0.8,
+    "player": null,
+    "bulletPrefab": {
+      "__uuid__": "9ae7498e-c93d-4390-9a82-c04acfcede01"
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Animation",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_defaultClip": {
+      "__uuid__": "951e7ec8-ef52-443b-8e7b-cacba91c6e02"
+    },
+    "_clips": [
+      {
+        "__uuid__": "951e7ec8-ef52-443b-8e7b-cacba91c6e02"
+      }
+    ],
+    "playOnLoad": true,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "440071d6-67b4-49a7-85e3-05c09113d195"
+    },
+    "fileId": "12OFE6bepOrqunFtDKX4Hs",
+    "sync": false
+  }
+]

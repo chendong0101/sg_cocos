@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhangpeng",
+    "texture": "2abb5e0f-8cb8-410e-a0a6-0cfa9bbcbcb1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      214,
+      126
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      214,
+      126
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

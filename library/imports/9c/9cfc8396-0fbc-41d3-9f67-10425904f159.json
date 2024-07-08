@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rocker",
+    "texture": "0a870ba0-70bd-41d3-b084-4c65bdf798eb",
+    "atlas": "",
+    "rect": [
+      8,
+      7,
+      244,
+      244
+    ],
+    "offset": [
+      1.5,
+      -1
+    ],
+    "originalSize": [
+      257,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

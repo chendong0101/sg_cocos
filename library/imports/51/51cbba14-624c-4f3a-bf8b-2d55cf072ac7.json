@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "steam5",
+    "texture": "d0821270-868e-4994-9214-705cb2392239",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      121
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      121
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

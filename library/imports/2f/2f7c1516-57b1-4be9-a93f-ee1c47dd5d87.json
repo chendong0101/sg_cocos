@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "archer-attack1",
+    "texture": "092cb502-7bf2-4812-8107-b195927a7ab0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      177,
+      197
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      177,
+      197
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

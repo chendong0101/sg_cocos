@@ -1,0 +1,60 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "luoli-attack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.08333333333333333,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9a5e9f7d-bbef-43a9-b722-cb86f52ec043"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "a7b2231c-7b9b-47ec-8fbf-79682e7c7c12"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "84293317-9a78-491a-a09d-fc948fbf7e70"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "cda47fcd-37b7-4371-ad0f-98eb205dcb2a"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "a0d2ca5f-4a81-4200-8ab8-afca0e456420"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.03333333333333333,
+      "func": "shootBullet",
+      "params": []
+    },
+    {
+      "frame": 0.06666666666666667,
+      "func": "onAttackFinish",
+      "params": []
+    }
+  ]
+}

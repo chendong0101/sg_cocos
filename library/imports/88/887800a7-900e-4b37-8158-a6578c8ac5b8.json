@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blue-enemy-1",
+    "texture": "02faaa7a-10c4-48ef-b35a-87552eb2b7ca",
+    "atlas": "",
+    "rect": [
+      19,
+      9,
+      116,
+      126
+    ],
+    "offset": [
+      8.5,
+      -1.5
+    ],
+    "originalSize": [
+      137,
+      141
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

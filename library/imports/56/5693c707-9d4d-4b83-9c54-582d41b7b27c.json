@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guanyu-a-1-1",
+    "texture": "99fae3a8-7c0f-443e-bba7-21367f8c08dc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      194,
+      108
+    ],
+    "offset": [
+      -40.5,
+      0
+    ],
+    "originalSize": [
+      275,
+      108
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

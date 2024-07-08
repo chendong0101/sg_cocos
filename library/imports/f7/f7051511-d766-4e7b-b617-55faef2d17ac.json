@@ -1,0 +1,36 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "archer-attack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.016666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2f7c1516-57b1-4be9-a93f-ee1c47dd5d87"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "shootBullet",
+      "params": []
+    },
+    {
+      "frame": 0,
+      "func": "onAttackFinish",
+      "params": []
+    }
+  ]
+}

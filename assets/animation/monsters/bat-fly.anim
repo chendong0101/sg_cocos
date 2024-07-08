@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bat-fly",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.08,
+  "sample": 50,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "06ddc689-7b89-4157-a7d6-dc49646d7847"
+            }
+          },
+          {
+            "frame": 0.02,
+            "value": {
+              "__uuid__": "4dd7c940-d5c6-4ae0-aaf3-abafebdab034"
+            }
+          },
+          {
+            "frame": 0.04,
+            "value": {
+              "__uuid__": "9fffd037-1a50-48db-a37e-20a0446813b9"
+            }
+          },
+          {
+            "frame": 0.06,
+            "value": {
+              "__uuid__": "1018920b-ac17-451f-9752-f827a13772d5"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

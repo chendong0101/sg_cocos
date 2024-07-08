@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ancher",
+    "texture": "f5276c93-ec6e-4692-b59a-cd496596490f",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      151,
+      175
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      151,
+      176
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

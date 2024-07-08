@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pet-fly",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.03333333333333333,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ddb26dee-314d-4a18-874d-b3ce4a761b27"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "b237faef-4503-4b80-ba34-edf3890d0536"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

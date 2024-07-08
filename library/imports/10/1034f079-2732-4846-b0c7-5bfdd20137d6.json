@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "arrow_skill_rain",
+    "texture": "e5884377-faa7-4632-9c8d-dae2e56f23ea",
+    "atlas": "",
+    "rect": [
+      9,
+      8,
+      124,
+      122
+    ],
+    "offset": [
+      -4,
+      6
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

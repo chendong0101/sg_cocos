@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "luoli-run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b988fe62-e48f-49a5-8d59-f1c1ea672422"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "0f6eecfb-7fe9-4a83-9074-c75d6e0fd630"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "2be5e8c8-a4b9-438c-b84d-2f9ab3ddf111"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "6122914b-a81c-4a42-9322-b6d6650e42a9"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

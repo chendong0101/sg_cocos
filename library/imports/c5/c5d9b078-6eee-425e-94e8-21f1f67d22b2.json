@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guanyu-idle-3",
+    "texture": "246b061f-f168-46f4-a0cf-6a051623c392",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      163,
+      93
+    ],
+    "offset": [
+      0.5,
+      -1
+    ],
+    "originalSize": [
+      164,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

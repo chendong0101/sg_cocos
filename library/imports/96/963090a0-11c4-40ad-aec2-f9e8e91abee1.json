@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jianta_1",
+    "texture": "d8611757-a5cc-4189-bbd9-f3719d7590e3",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      54,
+      73
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      56,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
